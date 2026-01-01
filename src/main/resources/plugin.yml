@@ -1,0 +1,7 @@
+name: LockFrames
+version: '1.0'
+main: me.f1ashbackss.lockFrames.LockFrames
+api-version: '1.21'
+authors: [ F1ashBackss ]
+description: A custom plugin for DDM designed for locking frames
+license: MIT
